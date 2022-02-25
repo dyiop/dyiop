@@ -7,8 +7,4 @@ I am a software engineer who is passionate about using his skills to work on som
 In my free time I like to produce indie music! Feel free to email me if you ever want to collaborate or even to just discuss your current song/artist obession.
 
 ## 🔗 - Links
-[Email](mailto:akashworkmail@gmail.com)
-
 [Personal Homepage](http://dyiop.github.io)
-
-[LinkedIn](https://www.linkedin.com/in/akash-shah-762785211/)
