@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi, I’m Akash! 👋🏾
 
-<!--
-**dyiop/dyiop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 - Work
+I am a software engineer who is passionate about using his skills to work on some of today’s most important projects and do more my part to enact change. I am currently working with the wonderful researchers over at the National Institute of Standards in Technology on various project. Feel free to browse through some of the public projects below.
 
-Here are some ideas to get you started:
+## 🎸 - Music
+In my free time I like to produce indie music! Feel free to email me if you ever want to collaborate or even to just discuss your current song/artist obession.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 - Links
+[Email](mailto:akashworkmail@gmail.com)
+
+[Personal Homepage](http://dyiop.github.io)
+
+[LinkedIn](https://www.linkedin.com/in/akash-shah-762785211/)
